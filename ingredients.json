@@ -1,0 +1,300 @@
+{
+	"Crispy z ječmenovo vlaknino": {
+		"unit"         : "gram",
+		"amount"       : 10,
+		"fat"          : 0.17,
+		"saturatedFat" : 0.04,
+		"carbs"        : 7.93,
+		"fiber"        : 0.7,
+		"protein"      : 0.65,
+		"salt"         : 0.091,
+		"iron"         : 0,
+		"calories"     : 37.3
+	},
+
+	"Alpsko mleko (3,5)": {
+		"unit"         : "deciliter",
+		"amount"       : 1,
+		"fat"          : 3.5,
+		"saturatedFat" : 2.3,
+		"carbs"        : 4.7,
+		"fiber"        : 0,
+		"protein"      : 3.3,
+		"salt"         : 0.12,
+		"iron"         : 0,
+		"calories"     : 64
+	},
+
+	"Majoneza Hellmann's (Delikatesna)": {
+		"unit"         : "gram",
+		"amount"       : 100,
+		"fat"          : 83,
+		"saturatedFat" : 10,
+		"carbs"        : 2,
+		"fiber"        : 0,
+		"protein"      : 1.5,
+		"salt"         : 1.1,
+		"iron"         : 0,
+		"calories"     : 760
+	},
+
+	"Kamniška Gorčica (Natureta)": {
+		"unit"         : "gram",
+		"amount"       : 100,
+		"fat"          : 5.4,
+		"saturatedFat" : 0.3,
+		"carbs"        : 2.4,
+		"fiber"        : 4.8,
+		"protein"      : 5.9,
+		"salt"         : 0,
+		"iron"         : 0,
+		"calories"     : 91
+	},
+
+	"Mlečni namaz z želišči (Mu)": {
+		"unit"         : "gram",
+		"amount"       : 100,
+		"fat"          : 19,
+		"saturatedFat" : 12.1,
+		"carbs"        : 4.7,
+		"fiber"        : 0,
+		"protein"      : 3.4,
+		"salt"         : 0.9,
+		"iron"         : 0,
+		"calories"     : 203
+	},
+
+	"Bio rastlinska delikatesna pašteta (Tartex)": {
+		"unit"         : "gram",
+		"amount"       : 100,
+		"fat"          : 17,
+		"saturatedFat" : 12.7,
+		"carbs"        : 9.5,
+		"fiber"        : 0,
+		"protein"      : 4.5,
+		"salt"         : 1.5,
+		"iron"         : 0,
+		"calories"     : 216
+	},
+
+	"Dimljeni sir (Jošt)": {
+		"unit"         : "gram",
+		"amount"       : 100,
+		"fat"          : 24.5,
+		"saturatedFat" : 18.6,
+		"carbs"        : 0,
+		"fiber"        : 0,
+		"protein"      : 22,
+		"salt"         : 1.4,
+		"iron"         : 0,
+		"calories"     : 309
+	},
+
+	"Gemüse-Bratwurst (granoVita)": {
+		"unit"         : "gram",
+		"amount"       : 100,
+		"fat"          : 20,
+		"saturatedFat" : 8.3,
+		"carbs"        : 3,
+		"fiber"        : 0,
+		"protein"      : 12,
+		"salt"         : 1.8,
+		"iron"         : 0,
+		"calories"     : 246
+	},
+
+	"Lasagne Mediterran": {
+		"unit"         : "gram",
+		"amount"       : 100,
+		"fat"          : 9.5,
+		"saturatedFat" : 1.9,
+		"carbs"        : 16,
+		"fiber"        : 0,
+		"protein"      : 4.5,
+		"salt"         : 0.93,
+		"iron"         : 0,
+		"calories"     : 172
+	},
+
+	"Light Jogurt (Dukat)": {
+		"unit"         : "gram",
+		"amount"       : 100,
+		"fat"          : 0.5,
+		"saturatedFat" : 0.29,
+		"carbs"        : 4.7,
+		"fiber"        : 0,
+		"protein"      : 3.6,
+		"salt"         : 0.13,
+		"iron"         : 0,
+		"calories"     : 38
+	},
+
+	"Energy drink (S Budget)": {
+		"unit"         : "deciliter",
+		"amount"       : 1,
+		"fat"          : 0,
+		"saturatedFat" : 0,
+		"carbs"        : 11.1,
+		"fiber"        : 0,
+		"protein"      : 0.4,
+		"salt"         : 0.23,
+		"iron"         : 0,
+		"calories"     : 48
+	},
+
+	"Radler Grapefruit (Union)": {
+		"unit"         : "deciliter",
+		"amount"       : 1,
+		"fat"          : 0,
+		"saturatedFat" : 0,
+		"carbs"        : 7.1,
+		"fiber"        : 0,
+		"protein"      : 0,
+		"salt"         : 0,
+		"iron"         : 0,
+		"calories"     : 42
+	},
+
+	"Mehrkorn Toast": {
+		"unit"         : "piece",
+		"amount"       : 1,
+		"fat"          : 1,
+		"saturatedFat" : 0,
+		"carbs"        : 11,
+		"fiber"        : 1.7,
+		"protein"      : 2.3,
+		"salt"         : 0.3,
+		"iron"         : 0,
+		"calories"     : 66
+	},
+
+	"Nutella": {
+		"unit"         : "gram",
+		"amount"       : 100,
+		"fat"          : 31.8,
+		"saturatedFat" : 11,
+		"carbs"        : 56.9,
+		"fiber"        : 0,
+		"protein"      : 6.6,
+		"salt"         : 0.1,
+		"iron"         : 0,
+		"calories"     : 547
+	},
+
+	"Rio Mare Insalatissime Messicana e Tonno": {
+		"unit"         : "can",
+		"amount"       : 1,
+		"fat"          : 20.8,
+		"saturatedFat" : 2.72,
+		"carbs"        : 15.2,
+		"fiber"        : 0,
+		"protein"      : 16,
+		"salt"         : 2.4,
+		"iron"         : 0,
+		"calories"     : 320
+	},
+
+	"Asia Nudeln Kimchi-Gemüse": {
+		"unit"         : "cup",
+		"amount"       : 1,
+		"fat"          : 9.4,
+		"saturatedFat" : 4.1,
+		"carbs"        : 35,
+		"fiber"        : 0,
+		"protein"      : 5.5,
+		"salt"         : 4.5,
+		"iron"         : 0,
+		"calories"     : 248
+	},
+
+	"Sant' Andrea riž (Zlato Polje)": {
+		"unit"         : "gram",
+		"amount"       : 100,
+		"fat"          : 1.1,
+		"saturatedFat" : 0.4,
+		"carbs"        : 79,
+		"fiber"        : 0.8,
+		"protein"      : 5.6,
+		"salt"         : 0,
+		"iron"         : 0,
+		"calories"     : 350
+	},
+
+	"Cheese Chips (Chio)": {
+		"unit"         : "gram",
+		"amount"       : 150,
+		"fat"          : 50,
+		"saturatedFat" : 4.5,
+		"carbs"        : 80,
+		"fiber"        : 6.5,
+		"protein"      : 8,
+		"salt"         : 2.6,
+		"iron"         : 0,
+		"calories"     : 825
+	},
+
+	"Jajce": {
+		"unit"         : "egg",
+		"amount"       : 1,
+		"fat"          : 6,
+		"saturatedFat" : 2,
+		"carbs"        : 0.6,
+		"fiber"        : 0,
+		"protein"      : 6,
+		"salt"         : 0,
+		"iron"         : 1,
+		"calories"     : 80
+	},
+
+	"Moka (Pšenična)": {
+		"unit"         : "gram",
+		"amount"       : 100,
+		"fat"          : 1,
+		"saturatedFat" : 0.2,
+		"carbs"        : 76,
+		"fiber"        : 0,
+		"protein"      : 10,
+		"salt"         : 0,
+		"iron"         : 0,
+		"calories"     : 364
+	},
+
+	"Sol": {
+		"unit"         : "gram",
+		"amount"       : 1,
+		"fat"          : 0,
+		"saturatedFat" : 0,
+		"carbs"        : 0,
+		"fiber"        : 0,
+		"protein"      : 0,
+		"salt"         : 1,
+		"iron"         : 0,
+		"calories"     : 0
+	},
+
+	"Olivno olje": {
+		"unit"         : "milliliter",
+		"amount"       : 100,
+		"fat"          : 91,
+		"saturatedFat" : 13,
+		"carbs"        : 0,
+		"fiber"        : 0,
+		"protein"      : 0,
+		"salt"         : 0,
+		"iron"         : 0,
+		"calories"     : 819
+	},
+
+	"Zrak": {
+		"unit"         : "gram",
+		"amount"       : 100,
+		"fat"          : 0,
+		"saturatedFat" : 0,
+		"carbs"        : 0,
+		"fiber"        : 0,
+		"protein"      : 0,
+		"salt"         : 0,
+		"iron"         : 0,
+		"calories"     : 0
+	}
+}
